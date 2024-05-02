@@ -112,7 +112,7 @@ FraudDetection
 ## Моделирование
 Для моделирования, я брал разные модели, такие как Logistic Regression, SVM, KNN, RandonForest.
 
-> 1.	Модель Logistic Regression.
+**> 1.	Модель Logistic Regression.**
 
 ` Точность у модели получилась: 81.299 % `
 
